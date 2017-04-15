@@ -11,7 +11,11 @@ GANs are Generative Adversarial Networks. This repository contains my experiment
 
 ![](https://raw.githubusercontent.com/suriyadeepan/baby-gans/master/out/simple-gan/out1.gif)
 
-- [Conditional GAN]()
+
+- [Conditional GAN](http://nbviewer.jupyter.org/github/suriyadeepan/baby-gans/blob/8b8ddb1ff975ac74f38e44d77fdc1c45884cffd3/cgan.ipynb)
+
+
+![](out/cgan/2.gif)![](out/cgan/4.gif)![](out/cgan/5.gif)![](out/cgan/7.gif)![](out/cgan/9.gif)
 
 
 
