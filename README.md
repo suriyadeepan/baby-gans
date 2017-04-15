@@ -4,6 +4,12 @@
 GANs are Generative Adversarial Networks. This repository contains my experiments with GANs.
 
 
+### Vanilla GAN
+
+
+![](https://raw.githubusercontent.com/suriyadeepan/baby-gans/master/out/simple-gan/out1.gif)
+
+
 ## Resources
 
 
